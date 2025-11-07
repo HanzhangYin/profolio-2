@@ -21,7 +21,8 @@ export default function Portfolio() {
           <div className="mt-8 space-y-4 text-left">
             <div>
               <p className="text-sm font-light">
-                (with R. Hodges) "A Non-Iterative Rule for Straightening Fillings and Orthonormality"
+                (with R. Hodges) "A NON-ITERATIVE STRAIGHTENING ALGORITHM AND ORTHOGONALITY FOR
+                SKEW SCHUR MODULES"
                 <a
                   href="https://arxiv.org/abs/2511.03702v1"
                   className="text-blue-600 hover:underline ml-1"
