@@ -21,7 +21,7 @@ export default function Portfolio() {
           <div className="mt-8 space-y-4 text-left">
             <div>
               <p className="text-sm font-light">
-                "A non-iterative straightening algorithm and orthogonality for skew Schur modules" (with R. Hodges)
+                "A non-iterative straightening algorithm and orthogonality for skew Schur modules" (with R. Hodges, submitted)
                 <a
                   href="https://arxiv.org/abs/2511.03702v1"
                   className="text-blue-600 hover:underline ml-1"
