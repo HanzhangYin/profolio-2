@@ -21,8 +21,7 @@ export default function Portfolio() {
           <div className="mt-8 space-y-4 text-left">
             <div>
               <p className="text-sm font-light">
-                (with R. Hodges) "A NON-ITERATIVE STRAIGHTENING ALGORITHM AND ORTHOGONALITY FOR
-                SKEW SCHUR MODULES"
+                "A non-iterative straightening algorithm and orthogonality for skew Schur modules" (with R. Hodges)
                 <a
                   href="https://arxiv.org/abs/2511.03702v1"
                   className="text-blue-600 hover:underline ml-1"
@@ -35,8 +34,8 @@ export default function Portfolio() {
             </div>
             <div>
               <p className="text-sm font-light">
-                (with L. Busch, G. Silewski, W. C. Torre, and J. Wisby) "Domination Number of Cartesian Product of
-                Complete Graphs"
+                "Domination Number of Cartesian Product of
+                Complete Graphs" (with L. Busch, G. Silewski, W. C. Torre, and J. Wisby)
                 <a
                   href="https://www.researchgate.net/publication/366168241_DOMINATION_OF_CARTESIAN_PRODUCT_OF_COMPLETE_GRAPHS"
                   className="text-blue-600 hover:underline ml-1"
